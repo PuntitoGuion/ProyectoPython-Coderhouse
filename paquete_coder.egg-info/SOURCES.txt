@@ -1,0 +1,8 @@
+setup.py
+paquete_coder/Cliente.py
+paquete_coder/Usuarios.py
+paquete_coder/__init__.py
+paquete_coder.egg-info/PKG-INFO
+paquete_coder.egg-info/SOURCES.txt
+paquete_coder.egg-info/dependency_links.txt
+paquete_coder.egg-info/top_level.txt
